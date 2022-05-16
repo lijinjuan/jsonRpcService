@@ -1,0 +1,19 @@
+{
+    "name": "jsonrpc/service",
+    "description": "provide a jsonrpc service",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "redhat",
+            "email": "1186747596@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "App\\JsonRpc\\":"JsonRpc/"
+        }
+    }
+
+}
