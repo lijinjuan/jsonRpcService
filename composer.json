@@ -1,5 +1,5 @@
 {
-    "name": "jsonrpc/service",
+    "name": "jzb/jsonrpc",
     "description": "provide a jsonrpc service",
     "type": "library",
     "license": "MIT",
